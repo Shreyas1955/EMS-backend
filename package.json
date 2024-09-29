@@ -4,7 +4,7 @@
   "private": true,
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"  // This script will start your Express server
+    "start": "node server.js" 
   },
   "dependencies": {
     "cors": "^2.8.5",
